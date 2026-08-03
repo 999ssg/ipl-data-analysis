@@ -3,7 +3,7 @@ End-to-end IPL analytics pipeline performing multi-season performance analysis, 
 
 # 🏏 Indian Premier League (IPL) Data Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/999ssg/ipl-data-analysis/blob/main/Project_IPL_DataAnalysis_Case_Study_Suchismita.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/999ssg/ipl-data-analysis/blob/main/Project_IPL_DataAnalysis_Case_Study_SuchismitaSengupta.ipynb)
 
 An end-to-end Exploratory Data Analysis (EDA) and data processing pipeline inspecting historical Indian Premier League (IPL) ball-by-ball and match dataset records to uncover team performance trends, venue impact factors, and individual player impact metrics.
 
